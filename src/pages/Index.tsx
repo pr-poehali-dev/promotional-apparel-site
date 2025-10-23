@@ -381,7 +381,7 @@ const Index = () => {
                   </div>
                   <div>
                     <div className="font-semibold">Адрес</div>
-                    <div className="text-lg">Москва, ул. Большая Тульская, 10</div>
+                    <div className="text-lg">Москва, ул. Гостиничная, 3</div>
                   </div>
                 </div>
 
@@ -391,7 +391,7 @@ const Index = () => {
                   </div>
                   <div>
                     <div className="font-semibold">Режим работы</div>
-                    <div className="text-lg">Пн-Пт: 9:00 - 19:00, Сб-Вс: 10:00 - 16:00</div>
+                    <div className="text-lg">Пн-Пт: 9:00 - 19:00</div>
                   </div>
                 </div>
               </div>
