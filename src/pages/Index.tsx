@@ -153,7 +153,7 @@ const Index = () => {
                   <div className="text-sm text-muted-foreground">Выполненных заказов</div>
                 </div>
                 <div className="text-center">
-                  <div className="text-3xl font-bold text-primary">24 часа</div>
+                  <div className="text-3xl font-bold text-primary">от 1 дня</div>
                   <div className="text-sm text-muted-foreground">Минимальный срок</div>
                 </div>
                 <div className="text-center">
