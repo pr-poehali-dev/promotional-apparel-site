@@ -371,7 +371,7 @@ const Index = () => {
                   </div>
                   <div>
                     <div className="font-semibold">Email</div>
-                    <div className="text-lg">info@logowear.ru</div>
+                    <div className="text-lg">reklam-bazar@yandex.ru</div>
                   </div>
                 </div>
 
